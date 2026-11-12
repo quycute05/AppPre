@@ -1,6 +1,7 @@
 // ========= ID ========= //
 // Locket: Gold + Filter Pack
-// @duyvinh09
+// @mquy05
+//cre: @dvinh09
 // ========= Phần cố định ========= //
 var _0x4091b6 = _0x4922;
 (function (_0xee8aa7, _0x3cd323) {
